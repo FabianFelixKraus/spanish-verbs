@@ -1,0 +1,33 @@
+ERRORS:
+
+gleiche wörter:
+	schauen: mirar, ver
+	essen: comer, tomar
+	machen: hacer, practica
+
+
+von: pflegen/betreuen, 3. Person Singular
+Eingabe: cuida
+Korrekte Lösung: None
+
+Lösung: [de] muss noch definiert werden
+
+von: hinaufgehen, 3. Person Singular
+Eingabe: abaja
+Korrekte Lösung: ERROR IRREGULAR 1
+
+Lösung [a] muss noch definiert werden
+
+
+von: auswählen, 3. Person Singular
+Eingabe: elige
+Korrekte Lösung: ilege
+
+Richtig wäre: elijo, eliges, *elige*, elegimos, elegís, eligen
+
+
+von: überprüfen, 3. Person Plural
+Eingabe: proban
+Korrekte Lösung: cuemproban
+
+Richtig wäre comprueban

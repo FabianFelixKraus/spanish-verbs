@@ -1,0 +1,144 @@
+abrir-öffnen
+aburrir-langweilen
+acostarse-ins Bett gehen[ue]
+ahorrar-sparen
+añadir-hinzufügen
+apagar-ausschalten
+apacar-parken
+aprender-lernen
+asignar-zuweisen/zuteilen
+asociar-assoziieren/verbinden
+ayudar-helfen
+bailar-tanzen
+bajar-aussteigen/heruntergehen
+beber-trinken
+buscar-suchen
+cambiar-umsteigen/verändern
+caminar-wandern
+cenar-zu Abend essen
+cerrar-schließen[ie]
+clasificar-einteilen/sortieren
+comer-essen
+comparar-vergleichen
+comprar-kaufen
+comprender-verstehen
+comprobar-überprüfen[ue]
+conocer-kennen lernen[zc]
+conservar-erhalten/bewahren/beibehalten
+contar-erzählen[ue]
+contar con-verfügen über[ue]
+contestar-antworten
+costar-kosten[ue]
+creer-glauben
+cruzar-überqueren
+cuidar-pflegen/betreuen[de]
+dar-geben[**]
+decir-sagen[i,g]
+deletrear-buchstabieren
+desayunar-fühstücken
+desconectar-abschalten
+deconfiar de-misstrauen
+descubir-entdecken
+despertarse-aufwachen[ie]
+discutir con-streiten mit
+disfrutar de-genießen
+disponar de-verfügen über[g]
+dormir-schlafen[ue]
+duscharse-duschen
+echar de menos-vermissen
+elegir-auswählen[i]
+empadronarse-sich anmelden
+emperoar-verschlechtern
+encantar-begeistern
+encontrar-finden[ue]
+encontrase-treffen
+enviar-schicken
+escribir-schreiben
+escuchar-zuhören
+esperar-warten
+esquiar-Ski fahren
+estar-sein/sich befinden [*]
+estudiar-studieren
+evitar-vermeiden
+explicar-erklären
+fotografiar-fotografieren
+ganar-verdienen
+gastar-ausgeben
+girar-abbiegen
+gustar-gefallen/schmecken
+haber-haben
+hablar-sprechen
+hacer-machen[g]
+identificar-bestimme
+imaginar-vorstellen
+imaginarse-sich vorstellen
+interesar-interessieren
+invitar-einladen
+ir-gehen,fahren[*]
+leer-lesen
+levantarse-aufstehen
+limpiar-putzen
+llamarse-nennen
+llegar-ankommen
+llevar-tragen,enthalten
+llover-regnen[ue]
+marcar-markieren
+meterse-hineingehen
+mirar-schauen
+montar-fahren
+mostrar-zeigen[ue]
+moverse-bewegen[ue]
+necesitar-benötigen
+ofrecer-anbieten[zc]
+oir-hören[g]
+olividar-vergessen
+ordenar-aufräumen/ordnen
+organizar-organisieren
+participar-teilnehmen
+pasar-verbringen
+pensar-überlegen
+perder-verpassen/verlieren[ie]
+perdonar-entschuldigen
+planear-planen
+poder-können/dürfen[ue]
+poner-setzen/stellen/legen[g]
+practicar-machen
+preferir-bevorzugen[ie]
+preguntar-fragen
+perparar-zubereiten
+presentar-vorstellen
+probar-ausprobieren[ue]
+promocionar-fördern/werben für
+empezar-beginnen/anfangen
+quedar-verabreden
+querer-wollen/mögen[ie]
+recibir-erhalten/bekommen
+recoger-abholen
+referirse a-sich beziehen auf[ie]
+relacionar-verbinden
+relajarse-sich entspannen
+reparar-reparieren
+reservar-reservieren
+saber-wissen[**]
+salir-ausgehen[g]
+saludar-begrüßen
+seguir todo recto-geradeaus/weitergehen[i]
+sentirse-sich fühlen[ie]
+ser-sein[*]
+soler-etwas zu tun pflegen[ue]
+solicitar-beantragen/bewerben
+soñar con-träumen über
+subir-hinaufgehen[a]
+tener-haben[g,ie]
+tocar-spielen
+tomar-essen/trinken
+trabajar-arbeiten
+transformar-verwandeln
+trear-bringen
+usar-benutzen
+venir-kommen[g,ie]
+ver-sehen[**]
+viajar-reisen
+visitar-besuchen
+vivir-wohnen
+volver-zurückkehren[ue]
